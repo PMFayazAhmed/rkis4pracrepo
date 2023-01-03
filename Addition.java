@@ -10,6 +10,8 @@ class Addition
 		num2=s.nextInt();
 		res=num1+num2:
 		System.out.println("Result is : "+res);
+		res=num1*num2;
+		System.out.println("Product Result is : "+res);
 	}
 }
 
