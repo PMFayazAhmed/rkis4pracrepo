@@ -8,8 +8,8 @@ class Addition
 		num1=s.nextInt();
 		System.out.println("Enter num2 value");
 		num2=s.nextInt();
-		res=num1+num2:
-		System.out.println("Result is : "+res);
+		res=num1-num2:
+		System.out.println("Difference Result is : "+res);
 		res=num1*num2;
 		System.out.println("Product Result is : "+res);
 	}
