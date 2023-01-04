@@ -12,7 +12,6 @@ class Addition
 		System.out.println("Quotient Result is : "+res);
 		res=num1*num2;
 		System.out.println("Product Result is : "+res);
-		System.out.println("This is End of the main method");
 	}
 }
 
